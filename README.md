@@ -1,3 +1,3 @@
-# reinforcement_learning
+# Ноутбуки с практическими заданиями по обучению с подкреплением
 
 - [Обучение Taxi-v3 из Gymnasium при помощи кросс-энтропийного метода](CrossEntropyTaxi.ipynb)
