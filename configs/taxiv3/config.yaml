@@ -1,0 +1,12 @@
+env:
+    name: Taxi-v3
+    state_n: 500
+    action_n: 6
+    
+params:
+    q_param: 0.6
+    iteration_n: 50
+    trajectory_n: 1000
+    trajectory:
+        max_len: 100
+    
