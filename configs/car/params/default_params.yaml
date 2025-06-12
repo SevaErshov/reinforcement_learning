@@ -1,0 +1,5 @@
+q_param: 0.6
+iteration_n: 50
+trajectory_n: 1000
+trajectory:
+    max_len: 100
